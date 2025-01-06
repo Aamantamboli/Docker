@@ -1,7 +1,7 @@
 # All Micro Services through Container
 ## Step 1: Launch Instance
 
-![Screenshot 2024-08-26 231009](https://github.com/user-attachments/assets/8815fa1e-0594-48bb-9d16-1ca8fb66b566)
+<img src="https://github.com/user-attachments/assets/8815fa1e-0594-48bb-9d16-1ca8fb66b566"/>
 
 ## Step 2: Create Docker file for each MicroService
 ### Amazon clone

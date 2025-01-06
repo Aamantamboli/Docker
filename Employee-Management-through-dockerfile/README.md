@@ -1,7 +1,7 @@
 # Deploye Employee app through Dockerfile
 ## Step 1: Create Instance and connect it 
 
-![image](https://github.com/user-attachments/assets/8182739f-c9d0-495c-a1b7-64e581f9f9c5)
+![Screenshot 2024-08-26 231009](https://github.com/user-attachments/assets/2e71e7cb-9673-4c80-aeb1-dfad9d5d2fa4)
 
 ## Step 2: Write Dockerfile for Backend 
 ```
